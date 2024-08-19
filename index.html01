@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaves</title>
+</head>
+<body>
+    <header>
+        <h1>Chaves</h1>
+        <p>As divertidas aventuras do menino Chaves na vila</p>
+    </header>
+
+    <div class="container">
+        <div class="section">
+            <h2>Sobre a Série</h2>
+            <p>"Chaves" é uma série de comédia mexicana criada por Roberto Gómez Bolaños. A série gira em torno do menino Chaves, um órfão que vive em uma vila e se envolve em várias situações engraçadas com seus vizinhos.</p>
+        </div>
+
+        <div class="section">
+            <h2>Personagens Principais</h2>
+            <p>O elenco principal inclui o Chaves, Seu Madruga, Dona Florinda, Quico, Professor Girafales, Chiquinha, e muitos outros personagens icônicos que conquistaram gerações.</p>
+        </div>
+
+        <div class="section">
+            <h2>Episódios</h2>
+            <p>Os episódios mostram as interações cômicas entre os moradores da vila, com o Chaves sempre se metendo em confusões, seja tentando escapar da fúria do Seu Madruga ou aprontando com Quico.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 Chaves Fansite. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
